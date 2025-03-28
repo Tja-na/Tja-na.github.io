@@ -1,0 +1,40 @@
+/*
+selector {
+eigenschaft: wert;
+property: value;
+} */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: orange;
+  background-color: #000000;
+  border: 3px solid rgb(232, 58, 87);
+  width: 600px;
+  padding: 20px;
+}
+p {
+  color: blue;
+  background-color: yellow;
+  width: 600px;
+  padding: 20px;
+  border: 5px solid orange;
+}
+
+a {
+  color: #000000;
+}
+#zwwei {
+  background-color: white;
+  color: #000000;
+}
+.rot {
+  color: darkred;
+  background-color: brown;
+}
